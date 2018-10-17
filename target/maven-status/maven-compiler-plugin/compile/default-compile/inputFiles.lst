@@ -1,0 +1,7 @@
+/home/issam/Bureau/final/src/main/java/com/testOffer/Application.java
+/home/issam/Bureau/final/src/main/java/com/testOffer/repositories/UserRepository.java
+/home/issam/Bureau/final/src/main/java/com/testOffer/services/UserServiceImpl.java
+/home/issam/Bureau/final/src/main/java/com/testOffer/models/User.java
+/home/issam/Bureau/final/src/main/java/com/testOffer/controllers/UserController.java
+/home/issam/Bureau/final/src/main/java/com/testOffer/models/validator/ValidatorUser.java
+/home/issam/Bureau/final/src/main/java/com/testOffer/services/UserService.java

@@ -1,0 +1,7 @@
+com/testOffer/services/UserService.class
+com/testOffer/models/validator/ValidatorUser.class
+com/testOffer/repositories/UserRepository.class
+com/testOffer/services/UserServiceImpl.class
+com/testOffer/models/User.class
+com/testOffer/controllers/UserController.class
+com/testOffer/Application.class
